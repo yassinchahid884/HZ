@@ -14,7 +14,7 @@ The script will:
 - Create a new "organized" folder in the same directory as your images
 - Sort all images into year-month folders (e.g., 2023-05 for May 2023)
 - Keep the original files intact
-## This script was made by yassin.chahid884 ##
+
 """
 
 import os
